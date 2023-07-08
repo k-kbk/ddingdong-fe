@@ -11,7 +11,7 @@ const notices: Array<NoticeType> = [
   {
     id: 1,
     title: '환전 서비스 환율 우대 정책 변경 안내',
-    createdAt: '2022. 12. 09',
+    createdAt: '2022. 12. 08',
   },
   {
     id: 2,
